@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Chia-Hung
+name: Chia-Hung Yang
 
 # Username (this should match the folder name)
 authors:
@@ -29,9 +29,6 @@ interests:
 
 education:
   courses:
-  - education: BS in Physics
-    institution: National Tsing Hua University, Taiwan
-    year: 2015
   - course: BS in Physics
     institution: National Tsing Hua University, Taiwan
     year: 2015
@@ -43,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "yang.chi@husky.neu.edu"
+  link: "mailto:yang.chi@husky.neu.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chiahungyang
