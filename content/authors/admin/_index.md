@@ -10,10 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate of Network Science
 
 # Organizations/Affiliations
-organizations:
+affiliations:
+- name: Emergent Epidemics Lab
+  url: "http://scarpino.github.io/"
 - name: Network Science Institute
   url: "https://www.networkscienceinstitute.org/"
 - name: Northeastern University
