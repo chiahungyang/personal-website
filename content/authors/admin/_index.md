@@ -13,7 +13,7 @@ superuser: true
 role: PhD Candidate of Network Science
 
 # Organizations/Affiliations
-affiliations:
+organizations:
 - name: Emergent Epidemics Lab
   url: "http://scarpino.github.io/"
 - name: Network Science Institute
