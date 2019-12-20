@@ -31,6 +31,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Network Science
+    institution: Northeastern University, United States
+    year: Ongoing
   - course: BS in Physics
     institution: National Tsing Hua University, Taiwan
     year: 2015
