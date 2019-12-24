@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate of Network Science
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
   url: "https://www.northeastern.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Edit my bio here.
+bio: A fan of integrating network science and complex system modeling.
 
 interests:
 - Complex Systems
@@ -71,6 +71,4 @@ email: ""
 # - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Chia-Hung is a PhD candidate of Network Science at...
+Chia-Hung is a PhD candidate of Network Science at Northeastern University, United States. He is facinated by the emergent and adaptive nature of complex systems, where the whole is more than the sum of its parts. He explores how network science, as an abstraction of complex system modeling, can unveil novel or strengthen existing understanding of theories of biological evolution. Concurrently, he is also interested in expanding the toolkit of network science to model complex systems, including general guidelines of message passing approaches and methods of network reconstruction from time series data.
