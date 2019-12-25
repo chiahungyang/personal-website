@@ -12,9 +12,8 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-[content]
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 2
+# Choose how much pages you would like to display (0 = all pages)
+count = 2
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -29,6 +28,7 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = ""
   description = """Formulated a population genetic modeling approach for the evolution of gene regulatory network
+  
   Investigated new insights from gene network evolution on the existing theories of evolution
   """
 
