@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -11,9 +11,6 @@ subtitle = ""
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
-
-# Choose how much pages you would like to display (0 = all pages)
-count = 2
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -27,10 +24,7 @@ count = 2
   location = "Boston, MA, United States"
   date_start = "2017-09-01"
   date_end = ""
-  description = """Formulated a population genetic modeling approach for the evolution of gene regulatory network
-  
-  Investigated new insights from gene network evolution on the existing theories of evolution
-  """
+  description = """Formulated a population genetic modeling approach for the evolution of gene regulatory network"""
 
 [[experience]]
   title = "Research Assistant"
