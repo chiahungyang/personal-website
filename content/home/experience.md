@@ -12,6 +12,10 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
+[content]
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 2
+
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
@@ -24,9 +28,8 @@ date_format = "Jan 2006"
   location = "Boston, MA, United States"
   date_start = "2017-09-01"
   date_end = ""
-  description = """
-  * Formulated a population genetic modeling approach for the evolution of gene regulatory network
-  * Investigated new insights from gene network evolution on the existing theories of evolution
+  description = """Formulated a population genetic modeling approach for the evolution of gene regulatory network
+  Investigated new insights from gene network evolution on the existing theories of evolution
   """
 
 [[experience]]
@@ -40,7 +43,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "Condensed Matter Theory Group, Department of Physics, National Tsing Hua University"
+  company = "Department of Physics, National Tsing Hua University"
   company_url = ""
   location = "Hsinchu, Taiwan"
   date_start = "2014-05-01"
