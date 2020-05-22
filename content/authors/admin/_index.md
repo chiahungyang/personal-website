@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:yang.chi@husky.neu.edu"
+  link: "mailto:yang.chi@northeastern.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chiahungyang
