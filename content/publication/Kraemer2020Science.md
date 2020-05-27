@@ -1,4 +1,5 @@
 ---
+title: The effect of human mobility and control measures on the COVID-19 epidemic in China
 date: "2020-03-27"
 
 reading_time: false  # Show estimated reading time?
@@ -7,8 +8,8 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 links:
-  - icon-pak: ai
-    icon: doi
+  - icon-pak: fab
+    icon: twitter
     name: CrossRef
     url: "https://science.sciencemag.org/content/368/6490/493"
 ---
