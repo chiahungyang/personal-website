@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Assistant"
+  company = "Emergent Epidemics Lab, Northeastern University"
+  company_url = "http://scarpino.github.io/"
+  location = "Boston, MA, United States"
+  date_start = "2017-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Formulated a population genetic modeling approach for the evolution of gene regulatory network"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "Network Science Institute, Northeastern University"
+  company_url = "https://www.networkscienceinstitute.org/"
+  location = "Boston, MA, United States"
+  date_start = "2016-09-01"
+  date_end = "2017-08-31"
+  description = """Developed a mechanistic model to elucidate a widely observed temporal pattern in ecological and finacial systems"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Department of Physics, National Tsing Hua University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Hsinchu, Taiwan"
+  date_start = "2014-05-01"
+  date_end = "2015-06-20"
+  description = """Analyzed and predicted the characteristic length scale of pattern formation in interacting prey-predator systems"""
 
 +++
