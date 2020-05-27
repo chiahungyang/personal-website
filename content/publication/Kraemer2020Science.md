@@ -1,9 +1,9 @@
 ---
 title: The effect of human mobility and control measures on the COVID-19 epidemic in China
 date: "2020-03-27"
-publication_type: "2"
+publication_types: "2"
 publication: "*Science 368*(6490): 493-497"
-authors: "Kraemar M. U. G., **Yang C.-H.**, Gutierrez B., Wu C.-H., Klein B., Pigott D. M., Open COVID-19 Data Working Group, 
+author: "Kraemar M. U. G., **Yang C.-H.**, Gutierrez B., Wu C.-H., Klein B., Pigott D. M., Open COVID-19 Data Working Group, 
 Plessis L. D., Faria N. R., Li R., Hanage W. P., Brownstein J. S., Layan M., Vespignani A., Tian H., Dye C., Cauchemez S., 
 Pybus O. G., & Scarpino S. V."
 
