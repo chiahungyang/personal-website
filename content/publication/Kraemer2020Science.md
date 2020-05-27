@@ -8,8 +8,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 links:
-  - icon-pak: ai
-    icon: doi
+  - name: CrossRef
     url: "https://science.sciencemag.org/content/368/6490/493"
 ---
 
