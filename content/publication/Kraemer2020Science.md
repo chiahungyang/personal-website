@@ -8,9 +8,8 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 links:
-  - icon-pak: fab
-    icon: twitter
-    name: CrossRef
+  - icon-pak: ai
+    icon: doi
     url: "https://science.sciencemag.org/content/368/6490/493"
 ---
 
