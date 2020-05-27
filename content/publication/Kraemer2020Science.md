@@ -10,7 +10,7 @@ links:
   - icon-pak: ai
     icon: doi
     name: CrossRef
-    ulr: "https://science.sciencemag.org/content/368/6490/493"
+    url: "https://science.sciencemag.org/content/368/6490/493"
 ---
 
 Kraemar M. U. G., **Yang C.-H.**, Gutierrez B., Wu C.-H., Klein B., Pigott D. M., Open COVID-19 Data Working Group, 
