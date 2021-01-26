@@ -2,6 +2,7 @@
 title: "netrd: A library for network reconstruction and graph distances"
 subtitle: "McCabe S., Torres L., LaRock T., Haque S. A., **Yang C.-H.**, Hartle H., Klein B. (2020). *arXiv*: 2010.16019"
 summary: "McCabe S., Torres L., LaRock T., Haque S. A., **Yang C.-H.**, Hartle H., Klein B. (2020). *arXiv*: 2010.16019"
+date: "2020-10-30"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
