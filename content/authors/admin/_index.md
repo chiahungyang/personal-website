@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Chia-Hung Yang
+name: Chia-Hung Yang (楊嘉鴻)
 
 # Username (this should match the folder name)
 authors:
@@ -10,21 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD, Network Science
 
 # Organizations/Affiliations
-organizations:
-- name: Emergent Epidemics Lab
-  url: "http://scarpino.github.io/"
-- name: Network Science Institute
-  url: "https://www.networkscienceinstitute.org/"
-- name: Northeastern University
-  url: "https://www.northeastern.edu"
+# organizations:
 
 # Short bio (displayed in user profile at end of posts)
-bio: A fan of integrating network science and complex system modeling.
+bio: A fan of machine learning, network science, and complex system modeling.
 
 interests:
+- Machine Learning
+- Artificial Intelligence
 - Complex Systems
 - Network Science
 - Evolution
@@ -33,7 +29,7 @@ education:
   courses:
   - course: PhD in Network Science
     institution: Northeastern University, United States
-    year: Ongoing
+    year: 2021
   - course: BS in Physics
     institution: National Tsing Hua University, Taiwan
     year: 2015
@@ -74,4 +70,4 @@ email: ""
 # - Visitors
 ---
 
-Chia-Hung is a PhD candidate of Network Science at Northeastern University, United States. He is facinated by the emergent and adaptive nature of complex systems, where the whole is more than the sum of its parts. He explores how network science, as an abstraction of complex system modeling, can unveil novel or strengthen existing understanding of theories of biological evolution. Concurrently, he is also interested in expanding the toolkit of network science to model complex systems, including general guidelines of message passing approaches and methods of network reconstruction from time series data.
+Chia-Hung is a PhD of Network Science graduated from Northeastern University, United States. His graduate research explored how network science, as an abstraction of complex system modeling, can unveil novel or strengthen existing understanding of theories of biological evolution. He also collaborated with colleagues to expand network science toolkits to model complex systems, including general guidelines of message passing approaches and network reconstruction from time series data. Recently, Chia-Hung grows interests in deep learning application of anomaly detection and self-supervised representation for biomedical signals.
